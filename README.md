@@ -1,10 +1,24 @@
+<p align=center>
 Hello everybody!
+</p>
+
+<p align=center>
 I'm a french dev who work on a lot of personnal projects.
+</p>
 
+<p align=center>
 My goal is to publish some projects that would be helpful for the community.
+</p>
 
+- - - -
+
+<p align=center>
 Discord: AARIX#1312
+</p>
+
+<p align=center>
 Website: https://clementcorp.fr
+</p>
 
 - - - -
 
