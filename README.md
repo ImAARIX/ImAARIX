@@ -19,7 +19,7 @@ Discord: AARIX#1312
 </p>
 
 <p align=center>
-Website: https://clementcorp.fr
+Websites: https://clementcorp.fr and http://poweredbypump.com
 </p>
 
 - - - -
