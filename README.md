@@ -24,7 +24,7 @@ Websites: https://clementcorp.fr and http://poweredbypump.com
 
 - - - -
 
-[![ImAARIX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAARIX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ImAARIX's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAARIX&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAARIX&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
