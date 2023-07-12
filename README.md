@@ -16,7 +16,10 @@ I'm still learning everyday but I understand lots of modern languages and techno
   <img alt="PHP" src="https://img.shields.io/badge/PHP-272a2e?style=for-the-badge&logo=php">
   <img alt="Java" src="https://img.shields.io/badge/Java-272a2e?style=for-the-badge&logo=openjdk">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-272a2e?style=for-the-badge&logo=javascript">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-272a2e?style=for-the-badge&logo=c%2B%2B">
   <img alt="Shell/Bash" src="https://img.shields.io/badge/Shell/Bash-272a2e?style=for-the-badge&logo=gnu-bash">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-272a2e?style=for-the-badge&logo=html5">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-272a2e?style=for-the-badge&logo=css3">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin*-272a2e?style=for-the-badge&logo=kotlin">
   <img alt="Groovy" src="https://img.shields.io/badge/Groovy*-272a2e?style=for-the-badge&logo=apache-groovy">
   <img alt="Go" src="https://img.shields.io/badge/Go*-272a2e?style=for-the-badge&logo=go">
@@ -34,6 +37,12 @@ I'm still learning everyday but I understand lots of modern languages and techno
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-272a2e?style=for-the-badge&logo=node.js">
 </p>
 <br/>
+<br/>
+<h4 align=center>Why is my GitHub account so empty and some of my public repositories so outdated and useless?</h4>
+<p align=center>
+  'Cause I mostly code on private projects, or for my work/studies purposes<br/>
+  It is something that I'm trying to regularize, but I'll come back with more interesting project, when I'll have the time, and if my work is not too time-consuming!
+</p>
 <br/>
 <h4 align=center>
   Do not hesitate to contact me by Discord
